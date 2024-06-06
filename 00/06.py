@@ -1,0 +1,6 @@
+phrase1 = input('Hi!')
+phrase2 = input('Carramba!')
+phrase3= input('Hohoho')
+print(phrase1)
+print(phrase2)
+print(phrase3)
